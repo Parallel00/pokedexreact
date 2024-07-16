@@ -1,0 +1,19 @@
+.Pokedex {
+  text-align: center;
+}
+
+.nm {
+  color: red;
+  font-family: 'Pokemon Solid';
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.winDet {
+  font-weight: bold;
+  color: orangered;
+}
